@@ -10,8 +10,8 @@
     "elven"
   ],
   "strength" {
-    value: 10,
-    modifier: 4,
-    athletics 4,
+    "value": 10,
+    "modifier": 4,
+    "athletics": 4
   }
 }
