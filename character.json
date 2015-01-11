@@ -9,9 +9,9 @@
     "common",
     "elven"
   ],
-  "strength" [
+  "strength" {
     value: 10,
     modifier: 4,
     athletics 4,
-  ]
+  }
 }
