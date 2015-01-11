@@ -1,0 +1,17 @@
+{
+  "name": "Zeno Onez",
+
+  "class": "rouge",
+  "race": "elf",
+  "level": 1,
+  "alignment": "unaligned",
+  "languages": [
+    "common",
+    "elven"
+  ],
+  "strength" {
+    value: 10,
+    modifier: 4,
+    athletics 4,
+  }
+}
