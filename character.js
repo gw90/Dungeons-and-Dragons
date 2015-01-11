@@ -8,4 +8,4 @@ var languages = ["common", "elven"];
 //first number value, second number modifier
 var strength = [10, 4];
 //boolean is trained? int is modifier
-var athletics = [False, 4];
+var athletics = [false, 4];
