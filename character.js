@@ -1,4 +1,5 @@
 var name = "Zeno Onez";
+var armorClass = 16;
 var cclass = "rouge";
 var race = "elf"
 var level = 1;
