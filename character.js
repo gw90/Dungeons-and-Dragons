@@ -1,5 +1,5 @@
 var name = "Zeno Onez";
-var class = "rouge";
+var cclass = "rouge";
 var race = "elf"
 var level = 1;
 var alignment = "unaligned";
