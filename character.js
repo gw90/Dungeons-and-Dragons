@@ -9,3 +9,6 @@ var languages = ["common", "elven"];
 var strength = [10, 4];
 //boolean is trained? int is modifier
 var athletics = [false, 4];
+var constitution = [13, 4];
+var endurance = [false, 4];
+var dexterity = [18, 9];
