@@ -11,4 +11,4 @@ var strength = [10, 4];
 var athletics = [false, 4];
 var constitution = [13, 4];
 var endurance = [false, 4];
-var dexterity = [18, 9];
+var dexterity = [18, 8];
